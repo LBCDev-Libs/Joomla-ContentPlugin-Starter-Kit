@@ -11,7 +11,7 @@ Este plugin permite sustituir el contenido entre tags {plugin_base} y {/plugin_b
 ~~~
 git init foo
 cd foo
-git pull https://github.com/LBC-Starter-Kits/Joomla-ContentPlugin-Starter-Kit.git
+git pull https://github.com/LBCDev-Libs/Joomla-ContentPlugin-Starter-Kit.git
 ~~~
 
 * Instalamos las dependencias del archivo package.json

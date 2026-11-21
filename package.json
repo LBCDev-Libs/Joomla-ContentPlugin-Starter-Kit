@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LBC-Starter-Kits/Joomla-ContentPlugin-Starter-Kit.git"
+    "url": "git+https://github.com/LBCDev-Libs/Joomla-ContentPlugin-Starter-Kit.git"
   },
   "author": "Luis Breña Calvo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LBC-Starter-Kits/Joomla-ContentPlugin-Starter-Kit/issues"
+    "url": "https://github.com/LBCDev-Libs/Joomla-ContentPlugin-Starter-Kit/issues"
   },
-  "homepage": "https://github.com/LBC-Starter-Kits/Joomla-ContentPlugin-Starter-Kit#readme",
+  "homepage": "https://github.com/LBCDev-Libs/Joomla-ContentPlugin-Starter-Kit#readme",
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.4",
